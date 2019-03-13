@@ -206,10 +206,6 @@ describe("CRUD operations", function() {
                     ].find("t").text
                 ).toEqual("17TA0J000000092");
 
-                buster.expect(sheet1.find("./sheetData/row/c[@r='A13']/v").text).toEqual("17TA0J000000091");
-                buster.expect(sheet1.find("./sheetData/row/c[@r='A13']/v").text).toEqual("17TA0J000000092");
-
-
                 // XXX: For debugging only
                 fs.writeFileSync('test/output/report.xlsx', newData, 'binary');
 
