@@ -1,0 +1,45 @@
+{
+  "name": "excel-report-template",
+  "version": "0.0.1",
+  "description": "Generate Excel Report with Excel files from templates.",
+  "main": "./lib/index",
+  "author": {
+    "name": "Roca Chien"
+  },
+  "contributors": [
+    {
+      "name": "Martin Aspeli",
+      "email": "optilude@gmail.com"
+    },
+    {
+      "name": "Roca Chien",
+      "email": "rocachien@yahoo.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:rocachien/excel-report-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rocachien/excel-report-template/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/rocachien/excel-report-template/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "xlsx-template": "^0.5.0"
+  },
+  "devDependencies": {
+    "buster": "0.7.18",
+    "grunt": "~1.0.1",
+    "grunt-buster": "~0.4.2"
+  },
+  "scripts": {
+    "test": "buster-test"
+  },
+  "readme": "",
+  "readmeFilename": "README.md"
+}
