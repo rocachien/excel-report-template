@@ -1,6 +1,6 @@
 # Excel Report Template
 
-[![Build status](https://api.travis-ci.org/rocachien/xlsx-report-template.png?branch=master)](http://travis-ci.org/rocachien/xlsx-report-template)
+[![Build status](https://travis-ci.org/rocachien/excel-report-template.svg?branch=master)](http://travis-ci.org/rocachien/excel-report-template)
 
 This library extension the [XLSX Template](https://github.com/optilude/xlsx-template)
 
