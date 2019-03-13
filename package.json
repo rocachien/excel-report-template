@@ -1,6 +1,6 @@
 {
   "name": "excel-report-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate Excel Report with Excel files from templates.",
   "main": "./lib/index",
   "author": {
