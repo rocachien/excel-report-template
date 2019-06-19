@@ -30,7 +30,8 @@
     }
   ],
   "dependencies": {
-    "xlsx-template": "^0.5.0"
+    "elementtree": "0.1.6",
+    "jszip": "^2.6.1"
   },
   "devDependencies": {
     "buster": "0.7.18",
