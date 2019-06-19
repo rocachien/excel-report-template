@@ -30,7 +30,6 @@
     }
   ],
   "dependencies": {
-    "xlsx-template": "^0.5.0"
   },
   "devDependencies": {
     "buster": "0.7.18",
